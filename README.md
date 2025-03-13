@@ -1,7 +1,7 @@
 <h1>Excel Sales Dashboard</h1>
 
 <h2>Description</h2>
-Project showcases a sales dashboard based off of a theoretical coffee business customer info spreadsheet, orders spreadsheet, and product info spreadsheet. It provides easily accessable information by the means of pivot tables with customizable slicers. The sales over time is displayed on a line graph along with two bar charts displaying sales by country and the top five customers. All of which are filter by selectable information such as the timeline, roast type, size, and if the customer has a loyalty card. 
+Project showcases a sales dashboard based off of a theoretical coffee business customer info spreadsheet, orders spreadsheet, and product info spreadsheet. It provides easily accessable information by the means of pivot tables with customizable slicers. The sales over time is displayed on a line graph along with two bar charts displaying sales by country and the top five customers. All of which are filtered by selectable information such as the timeline, roast type, size, and if the customer has a loyalty card. 
 <br />
 
 <h2>Program walk-through:</h2>
